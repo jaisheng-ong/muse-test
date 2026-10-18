@@ -21,4 +21,4 @@ This repository is where I try out Muse's capabilities in practice: handing off 
 
 | Date | Experiment | Outcome |
 | ---- | ---------- | ------- |
-|      |            |         |
+| 2026-10-18 | REA vs IDA Official research | Notes in `experiments/001-rea-vs-ida-official/` |
